@@ -1,2 +1,2 @@
 # calendar
-select a date in langage c
+choose a date in langage c
